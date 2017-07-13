@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">ApplopMap</string>
+    <string name="facebook_app_id">340137203085846</string>
+    <string name="fb_login_protocol_scheme">fb340137203085846</string>
+    <string name="log_out">log out</string>
+    <string name="location">Your Location</string>
+    <string name="categories">CATEGORIES</string>
+    <string name="select">Select what you are searching for</string>
+
+    <string name="google_maps_key">AIzaSyCl7FXM7ivMukEv1wLidhVe56O4jqBAnRQ</string>
+
+    <string name="base_url_place_name">https://maps.googleapis.com/maps/api/place/nearbysearch/</string>
+    <string name="base_url_single_place_details">https://maps.googleapis.com/maps/api/place/details/</string>
+    <string name="base_url_direction">https://maps.googleapis.com/maps/api/directions/</string>
+    <string name="detect_location">Detect my location</string>
+
+
+    <array name="health_wellness">
+        <item>hospital</item>
+    <item>physiotherapist</item>
+    <item>dentist</item>
+    <item>doctor</item>
+        </array>
+
+<array name="fashion_life_style">
+    <item> clothing_store </item>
+    <item> shoe_store </item>
+    <item> shopping_mall </item>
+    <item>  jewelry_store </item>
+</array>
+
+    <array name="beauty_body_care">
+       <item> beauty_salon </item>
+        <item>  gym </item>
+        <item>  hair_care </item>
+        <item> spa </item>
+    </array>
+
+    <array name="dining_lodging">
+<item>bakery</item>
+        <item>bar</item>
+        <item>  cafe</item>
+        <item>      restaurant</item>
+        <item>   casino</item>
+    </array>
+
+    <array name="enterainment">
+<item>  book_store</item>
+        <item>        bowling_alley</item>
+        <item>    rv_park</item>
+        <item>    campground</item>
+        <item>   park</item>
+        <item>  museum</item>
+        <item>night_club</item>
+        <item> movie_rental</item>
+        <item>  movie_theater</item>
+        <item> amusement_park</item>
+        <item>art_gallery</item>
+        <item> zoo</item>
+    </array>
+
+    <array name="services">
+
+<item>        accounting</item>
+        <item>        bicycle_store</item>
+        <item>    car_dealer</item>
+        <item>  car_rental</item>
+        <item>   car_repair</item>
+        <item>  car_wash</item>
+        <item>     department_store</item>
+        <item>   electrician</item>
+        <item>     electronics_store</item>
+        <item> florist</item>
+        <item>  furniture_store</item>
+        <item>    gas_station</item>
+        <item>   hardware_store</item>
+        <item>   storage</item>
+        <item> store</item>
+        <item>    subway_station</item>
+        <item> taxi_stand</item>
+        <item> train_station</item>
+        <item>    transit_station</item>
+        <item> travel_agency</item>
+        <item>    plumber</item>
+        <item> post_office </item>
+        <item>real_estate_agency</item>
+        <item> roofing_contractor</item>
+        <item>painter</item>
+        <item> insurance_agency</item>
+        <item>  laundry</item>
+        <item>lawyer</item>
+        <item> liquor_store</item>
+        <item> local_government_office</item>
+        <item>  locksmith</item>
+        <item>lodging</item>
+        <item> meal_delivery</item>
+        <item>  meal_takeaway </item>
+        <item> movie_rental </item>
+    </array>
+
+    <array name="education">
+       <item> library</item>
+        <item> university</item>
+        <item> school</item>
+    </array>
+
+    <array name="pet_care">
+<item>        veterinary_care</item>
+        <item>        pet_store</item>
+
+    </array>
+
+    <array name="category_url">
+      <item>  https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/beauty.jpg?alt=media&amp;token=e18dac09-3ef6-4dc4-8769-ed9f7b0c939a</item>
+        <item>  https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/Fashion.jpg?alt=media&amp;token=225afb4b-cbe1-4691-a22a-dc661e5d4cd6</item>
+        <item>     https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/Health-%26-Wellness.jpg?alt=media&amp;token=25e52ea1-394e-4d66-ad30-5ff6a9ff9872</item>
+        <item>  https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/beauty.jpg?alt=media&amp;token=e18dac09-3ef6-4dc4-8769-ed9f7b0c939a</item>
+        <item>  https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/Fashion.jpg?alt=media&amp;token=225afb4b-cbe1-4691-a22a-dc661e5d4cd6</item>
+        <item>     https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/Health-%26-Wellness.jpg?alt=media&amp;token=25e52ea1-394e-4d66-ad30-5ff6a9ff9872</item>
+        <item>  https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/Fashion.jpg?alt=media&amp;token=225afb4b-cbe1-4691-a22a-dc661e5d4cd6</item>
+        <item>     https://firebasestorage.googleapis.com/v0/b/applopmap.appspot.com/o/Health-%26-Wellness.jpg?alt=media&amp;token=25e52ea1-394e-4d66-ad30-5ff6a9ff9872</item>
+    </array>
+
+    <array name="health_pic_url">
+
+    </array>
+
+    <array name="fashion_pic_url">
+
+
+    </array>
+
+    <array name="beauty_pic_url">
+
+
+    </array>
+
+
+    <array name="enterainment_pic_url">
+
+    </array>
+
+    <array name="dining_pic_url">
+
+
+ </array>
+
+    <array name="service_pic_url">
+
+
+    </array>
+
+    <array name="education_pic_url">
+
+
+    </array>
+
+    <array name="petcare_pic_url">
+
+
+    </array>
+
+
+</resources>

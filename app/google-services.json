@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535908942589",
+    "firebase_url": "https://applopmap.firebaseio.com",
+    "project_id": "applopmap",
+    "storage_bucket": "applopmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535908942589:android:013c60f58b678bc3",
+        "android_client_info": {
+          "package_name": "com.example.dell.applopmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535908942589-8409jd8ilohc8r9d05ujp1mua7619t7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.applopmap",
+            "certificate_hash": "6747787763b934e227e004212d8ead6a87c0f744"
+          }
+        },
+        {
+          "client_id": "535908942589-pov8v9ipqn40j5hoqlho7kkof2e2bm32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBBro1vhZ69i_OD5zftX4h84uEGpTiGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535908942589-pov8v9ipqn40j5hoqlho7kkof2e2bm32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
