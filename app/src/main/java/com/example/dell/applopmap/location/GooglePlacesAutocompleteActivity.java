@@ -183,6 +183,9 @@ if(lat!=null && lng!=null){
 
 			// Extract the Place descriptions from the results
 			resultList = new ArrayList<String>(predsJsonArray.length());
+			for (int i = 0; i < predsJsonArray.length(); i++) {
+				resultList.add(predsJsonArray.getJSONObject(i).getString("description"));
+			}
 
 		} catch (JSONException e) {
 			Log.e(LOG_TAG, "Cannot process JSON results", e);
